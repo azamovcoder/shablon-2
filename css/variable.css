@@ -1,0 +1,13 @@
+:root {
+    --primaryColor: black;
+    --secondaryColor: white;
+    --backgroundColor: blue;
+    --hoverColor:skyblue;
+    --darkModeColor: black;
+}
+
+.dark {
+    --primaryColor: white;
+    --secondaryColor: black;
+    --darkModeColor: yellow;
+}
